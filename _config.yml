@@ -1,7 +1,7 @@
 name: myneo
 favicon: null
-layout_spectrum: 0.8835608111694455
-typography_spectrum: 0.6732888226397336
+layout_spectrum: 0
+typography_spectrum: 0.28046
 cta:
   domain: null
   bucket: null
