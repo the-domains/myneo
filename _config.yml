@@ -1,0 +1,28 @@
+name: myneo
+favicon: null
+layout_spectrum: 0.8835608111694455
+typography_spectrum: 0.6732888226397336
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.45999233634211123
+  lightness: 0.8311690816190094
+  saturation: 0.9683707891963422
+  rhythmicContrast: 0.9132568298373371
+purpose: []
