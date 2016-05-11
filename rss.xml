@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[myneo]]></title>
+        <description><![CDATA[myneo]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 11 May 2016 17:35:40 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tulum]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/418b68e7-5bb8-4db3-b8b4-c8edcd436d2d.jpg">]]></description>
+            <link>undefinedtulum/index.html</link>
+            <guid isPermaLink="false">58c1501c-5d37-4c92-a0dd-e633c220281b</guid>
+            <pubDate>Wed, 11 May 2016 17:35:39 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
